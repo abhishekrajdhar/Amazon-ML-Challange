@@ -1,6 +1,3 @@
-Let’s draft your 1-page project documentation based on your current pipeline.
-You can paste this directly into your Documentation_template.md (or I can generate a .md file for download if you want).
-
 🧠 Model Documentation — Price Prediction Challenge
 1. Methodology
 
